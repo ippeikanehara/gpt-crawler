@@ -1,9 +1,9 @@
 import { Config } from "./src/config";
 
 export const defaultConfig: Config = {
-  url: "https://www.builder.io/c/docs/developers",
-  match: "https://www.builder.io/c/docs/**",
-  maxPagesToCrawl: 50,
-  outputFileName: "output.json",
+  url: "https://www.holisticseo.digital/",
+  match: "https://www.holisticseo.digital/**",
+  maxPagesToCrawl: 3000,
+  outputFileName: "outputKoray.json",
   maxTokens: 2000000,
 };
